@@ -15,20 +15,21 @@ A modern frontend interface for a professional legal chatbot application, built 
 
 ## 📁 Project Structure
 
-.
+📦 Professional-Legal-Chatbot-Interface
 ├── src/
-│ ├── App.tsx # Root React component
-│ ├── main.tsx # Entry point
-│ ├── index.css # Tailwind CSS imports
-│ └── vite-env.d.ts # Vite-specific types
-├── index.html # HTML template
-├── tailwind.config.js # Tailwind configuration
-├── postcss.config.js # PostCSS configuration
-├── vite.config.ts # Vite configuration
-├── tsconfig.json # TypeScript configuration
-├── .eslintrc.js # Linting rules
-├── package.json # Project metadata & scripts
-└── README.md # Project documentation
+│   ├── App.tsx             # Root React component
+│   ├── main.tsx            # React DOM entry point
+│   ├── index.css           # Global styles with Tailwind imports
+│   └── vite-env.d.ts       # Vite type declarations
+├── index.html              # HTML template used by Vite
+├── tailwind.config.js      # Tailwind CSS configuration
+├── postcss.config.js       # PostCSS processor settings
+├── vite.config.ts          # Vite bundler configuration
+├── tsconfig.json           # TypeScript compiler options
+├── .eslintrc.js            # ESLint rules for code quality
+├── package.json            # Project metadata and dependencies
+└── README.md               # Project documentation
+
 
 
 ## 🚀 Getting Started
@@ -44,17 +45,24 @@ A modern frontend interface for a professional legal chatbot application, built 
 
 
 git clone https://github.com/WhiteDevil1716/Professional-Legal-Chatbot-Interface.git
+
 cd Professional-Legal-Chatbot-Interface
+
 Install dependencies
+
+
 
 npm install
 # or
 yarn install
+
 Start development server
+
 
 npm run dev
 # or
 yarn dev
+
 Open http://localhost:5173 in your browser to view the app.
 
 🧠 Features (UI Only)
@@ -70,9 +78,13 @@ Note: This project is the frontend only. Backend integration (e.g., OpenAI, lega
 
 🔧 Scripts
 Command	Description
+
 npm run dev	Start development server
+
 npm run build	Build the project for production
+
 npm run preview	Preview the production build
+
 npm run lint	Lint code using ESLint
 
 📦 Deployment
