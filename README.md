@@ -30,11 +30,6 @@ A modern frontend interface for a professional legal chatbot application, built 
 ├── package.json # Project metadata & scripts
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 Getting Started
 
@@ -47,22 +42,16 @@ Edit
 
 1. **Clone the repository**
 
-```bash
-git clone https://github.com/<your-username>/Professional-Legal-Chatbot-Interface.git
+
+git clone https://github.com/WhiteDevil1716/Professional-Legal-Chatbot-Interface.git
 cd Professional-Legal-Chatbot-Interface
 Install dependencies
 
-bash
-Copy
-Edit
 npm install
 # or
 yarn install
 Start development server
 
-bash
-Copy
-Edit
 npm run dev
 # or
 yarn dev
@@ -106,17 +95,4 @@ GitHub
 
 📬 Contact
 For collaboration or support, open an issue or contact at:
-📧 [your-email@example.com]
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want:
-- A `backend/` folder connected guide
-- Sample API response integration
-- Markdown badges (build status, license, etc.)
-
-I can also generate a working `LICENSE` file if needed
+📧 [rithvik1528@gmail.com]
