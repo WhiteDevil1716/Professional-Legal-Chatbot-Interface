@@ -1,4 +1,4 @@
-# 🧑‍⚖️ AI-Powered Legal Chatbot Interface
+# 🧑‍⚖️ Professional Legal Chatbot Interface
 
 A modern and responsive frontend for an **AI-driven legal assistant**, designed to help users ask legal questions, understand legal terminology, and generate basic legal documents. Built using **React**, **TypeScript**, **Vite**, and **Tailwind CSS**, this UI is clean, lightweight, and ready for integration with a backend model such as OpenAI or a custom legal NLP model.
 
