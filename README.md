@@ -98,16 +98,6 @@ Professional-Legal-Chatbot-Interface/
 
 ---
 
-### 📦 Available Scripts
-
-# Command	             # Description
-npm run               dev	Start development server
-npm run               build	Create optimized production build
-npm run               preview	Preview production build locally
-npm run               lint	Lint code with ESLint
-
----
-
 ### 🌐 Deployment Options
 You can deploy this app on platforms like:
 
@@ -136,7 +126,7 @@ Just connect your GitHub repo and follow the deployment instructions.
 
 ### 👨‍💼 Author
  Rithvik R
- 🔗 GitHub: @WhiteDevil1716
- 📧 Email: rithvik1528@gmail.com
+ <br>🔗 GitHub: @WhiteDevil1716
+ <br>📧 Email: rithvik1528@gmail.com
 
 ---
